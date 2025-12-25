@@ -84,5 +84,5 @@
   # - Configure IPTV in Kodi via PVR IPTV Simple Client addon (add your M3U playlist).
   # - YouTube addon is fully FOSS and works without API key for basic use.
 
-  system.stateVersion = "24.11";  # Adjust to your NixOS version
+  system.stateVersion = "25.05";  # Adjust to your NixOS version
 }
